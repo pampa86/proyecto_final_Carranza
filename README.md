@@ -46,4 +46,8 @@ recordar datos importantes a ser cargados.
 ## CREACIÓN de USUARIOS -ROLES-PERMISOS
 Se busca determinar a que usaurio dado un determinado rol, tiene ese acceso a la Base para realizar determinada acción.
 
+  ## Adjunto Diagrama entidad relación.
+
+  ![image](https://github.com/user-attachments/assets/39bf86e3-aa1c-4938-8c59-e9b0a1bd815b)
+
   
